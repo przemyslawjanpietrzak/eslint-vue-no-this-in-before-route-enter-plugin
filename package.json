@@ -23,7 +23,7 @@
   "devDependencies": {
     "eslint": "^7.1.0",
     "generator-eslint": "^2.0.0",
-    "mocha": "^8.3.2",
+    "mocha": "^9.1.1",
     "yo": "^3.1.1"
   },
   "engines": {
